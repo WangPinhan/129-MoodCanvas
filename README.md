@@ -1,6 +1,8 @@
 # MoodCanvasQt · 心象日记
 
-程序运行录屏链接：https://disk.pku.edu.cn/link/AA5AA0FEEA42544596AD17DB0FD70DCDB6  提取码：DBNy 有效期限：2026-09-01 20:08
+程序运行录屏链接：https://disk.pku.edu.cn/link/AA5AA0FEEA42544596AD17DB0FD70DCDB6 
+
+提取码：DBNy          有效期限：2026-09-01 20:08
 
 注：这是6月6日展示录制的链接，实际后续又修改了部分功能，具体参考README.md和作业报告.pdf
 
