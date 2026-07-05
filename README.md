@@ -74,21 +74,6 @@ mingw32-make -j4
 | 接口地址 | 例如 `https://api.deepseek.com` |
 | 模型名称 | 例如 `deepseek-chat` |
 
-大模型返回的结构化 JSON 包含以下核心字段（用于驱动心象画布与报告）：
-
-```json
-{
-  "emotion": "开心",
-  "emotion_weights": {"开心": 0.7, "平静": 0.2, ...},
-  "valence": 0.6,
-  "arousal": 0.8,
-  "keywords": ["作业", "完成", "轻松"],
-  "comfort_text": "今天你完成了重要的一步，可以允许自己慢一点。",
-  "cbt_hint": "试着把「我必须完美」换成「我已经尽力了」。",
-  "colors": ["#FFD700", "#FF8C00", "#FFA07A"]
-}
-```
-
 ---
 
 ## ☁️ 云端服务约定
